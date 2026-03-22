@@ -279,5 +279,5 @@ tras evaluacion presencial del paciente.
 
 ## Presentado en
 
-**Innovatec 2026** — Feria de Innovacion Tecnologica
-Proyecto: Sistema de Diagnostico Dermatologico con Inteligencia Artificial
+**InnovatecNM 2026** 
+Proyecto: NUDA
