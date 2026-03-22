@@ -263,5 +263,5 @@ MIT License — libre para uso academico y de investigacion.
 
 ## Presentado en
 
-**Innovatec 2026** — Feria de Innovacion Tecnologica  
+**InnovatecNM 2026**  
 Proyecto: Sistema de Diagnostico Dermatologico con Inteligencia Artificial
